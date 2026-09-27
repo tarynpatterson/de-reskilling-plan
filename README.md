@@ -13,6 +13,8 @@ plan and progress for sharpening engineering skills back up: modern
 tooling (dbt, Airflow/Dagster, Spark, Iceberg/Delta, Kafka, Terraform),
 multi-cloud breadth (AWS/Azure/GCP), and a portfolio of public projects.
 
+A note on process: This re-skilling plan was developed with the assistance of Claude (Anthropic), used to assess my existing skill set and structure a plan integrating current tools with practices I already know. All work, code, and analysis in the linked project repositories are my own.
+
 ## Goals
 
 - Rebuild hands-on fluency in modern DE tooling: dbt, Airflow/Dagster, Spark, Iceberg/Delta, Kafka, Terraform, CI/CD.
