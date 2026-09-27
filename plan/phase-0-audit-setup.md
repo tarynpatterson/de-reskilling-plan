@@ -1,6 +1,6 @@
-# Phase 0: Audit and setup (week 1)
+# Phase 0: setup (week 1)
 
-By the end of week 1 you have a ranked gap list and a working local environment.
+By the end of week 1 you have a working local environment.
 
 ## Step 1: Environment setup (3 hours)
 
